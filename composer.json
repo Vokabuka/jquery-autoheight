@@ -9,9 +9,9 @@
     "css",
     "fix"
   ],
-  "authors": [
+  "authors": [{
     "Daniel Nümm <daniel.nuemm@blacktre.es>"
-  ],
+  }],
   "license": "MIT",
   "minimum-stability": "dev"
 }
