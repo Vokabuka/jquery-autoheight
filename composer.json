@@ -10,7 +10,9 @@
     "fix"
   ],
   "authors": [{
-    "Daniel Nümm <daniel.nuemm@blacktre.es>"
+ 		"name": "Daniel Nümm",
+		"email": "daniel.nuemm@blacktre.es",
+		"homepage": "https://github.com/monocult"
   }],
   "license": "MIT",
   "minimum-stability": "dev"
